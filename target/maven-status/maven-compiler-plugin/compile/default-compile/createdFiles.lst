@@ -1,0 +1,6 @@
+com/graphql/SpringBootApplicationLuncher.class
+com/graphql/dao/entity/Preferred_name.class
+com/graphql/query/Author_profileQuery.class
+com/graphql/service/AuthorRetrievalService.class
+com/graphql/dao/entity/Author_profile.class
+com/graphql/dao/entity/Affiliation.class
